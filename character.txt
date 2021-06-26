@@ -2,3 +2,4 @@ Lion
 Tiger
 Leopord
 Cow
+Wolf
